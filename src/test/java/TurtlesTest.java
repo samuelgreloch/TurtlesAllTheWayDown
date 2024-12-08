@@ -1,4 +1,6 @@
-import static org.junit.Assert.*;
+import org.junit.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Created by kristofer on 7/14/20.
@@ -16,6 +18,12 @@ public class TurtlesTest {
 //    Then:
 //
 //    Build out a factorial class and some tests.
+
+    }
+
+
+
+
 //
 //    Build out a GCD class and some tests.
 //
@@ -66,4 +74,3 @@ public class TurtlesTest {
 //            and
 //
 //    S1 = GCCCTAGCG S2 = GCGCAATG
-}
